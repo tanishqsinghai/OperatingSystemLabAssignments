@@ -1,38 +1,52 @@
-# OperatingSystemLabAssignments
-# ASSIGNMENTS
-# Subject Code : CSE 317
-# Subject Coordinator : Prof. Vijay Bhaskar
-# Semester : 5th
+# Operating-System-Lab
 
-# Assignment-1
+Subject Code : CSE 317 <br>
+Subject Coordinator : Prof. Vijay Bhaskar <br>
+Semester : 5th <br> 
 
-fibonacc-_fork.c
-parent_child_id.c
-# Assignment-2
+Assignment-1
+1. fibonacci.c
+2. fork_implementation.c
 
-Sorting using fork().c
-Binarytree using fork.c
-# Assignment-3
+Assignment-2
+1. sort.c
+2. binaryTree.c
 
-orphan_process.c
-zombie_process.c
-multiprocess.c
-# Assignment-4
+Assignment-3
+1. orphan_process.c
+2. zombie_process.c
+3. multiprocess.c
 
-Thread_and_Fork().c
-# Assignment-5
+Assignment-4
+1. Thread_and_Fork().c
 
-fibonacci_using_thread.c
-variables_in_thread.c
-# Assignment-6
+Assignment-5
+1. fibonacci_using_thread.c
+2. variables_in_thread.c
 
-binary_semaphore.c , counting_semaphore.c
-peterson.c
-race_condition.c
-# Assignment-7
+Assignment-6
+1. binary_semaphore.c , counting_semaphore.c
+2. peterson.c
+3. race_condition.c
 
-producer_consumer.c
-reader_writer.c
-# Assignment-8
+Assignment-7
+1. Producerconsumer.c
+2. Readerwriter.c
 
-diningPhilosopher_using_Semaphores
+Assignment-8
+1. DiningPhilospher.c
+
+Assignment-9
+1. Banker'sAlgorithm.cpp
+
+Assignment-10
+1. FCFS.c
+2. ShortestJobFirstScheduling.c
+3. ShortestJobFirstScheduling_Preemptive.c
+4. Priority.c
+5. RoundRobin.c
+
+Assignment-11
+ 1. SSTF.c
+ 2. scan.c
+ 3. c_scan_scheduling.c
